@@ -1,5 +1,5 @@
-# Nama    : Ahmad Raffi Muzacky
-# Nim     : A11.2023.15326
+# Nama    : BAGAS AJI HERLAMBANG
+# Nim     : A11.2023.15355
 # Kelas   : Dev-02
 # Matkul  : Bengkel Koding
 
